@@ -11,9 +11,6 @@ Usage
 		<tag data-toggle="portfilter" data-target="targetname">...
 	For items
 		<tag data-tag="targetname">...
-Demo
-----
-http://js-porfolio.bartcoppelmans.nl
 Requisites
 ----------
 	jQuery (http://jquery.com/)
